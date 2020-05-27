@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SociallMedia</string>
+    <string name="facebook_app_id">723617268403108</string>
+    <string name="fb_login_protocol_scheme">fb723617268403108</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="ok">OK</string>
+    <string name="FBexception">FacebookAuthorizationException.</string>
+</resources>
